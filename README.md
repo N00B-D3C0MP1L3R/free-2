@@ -1,2 +1,9 @@
 # free
-SC free open source nga usah di jual
+SC free nga usah di jual kntl
+
+# install
+$ git clone https://github.com/Putra-XD/free
+
+$ cd free
+
+$ python fre.py
